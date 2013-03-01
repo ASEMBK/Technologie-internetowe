@@ -1,4 +1,9 @@
-Technologie-internetowe
-=======================
+# Technologie internetowe - notatki
 
-Technologie internetowe_notatki
+Znaczniki:
+
+* p
+* ul, ol
+  * li
+*   img
+*   h
