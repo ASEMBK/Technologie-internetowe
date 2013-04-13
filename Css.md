@@ -36,4 +36,4 @@ h3.warning { background: white;
   margin: 24px;
 }   
 
-p.warning: hver { background: green; }
+p.warning: hover { background: green; }
