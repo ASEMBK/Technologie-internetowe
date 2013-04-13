@@ -1,4 +1,4 @@
-body {background: yellow;\n
+body {background: yellow;
 padding: 38px;
 }
 
