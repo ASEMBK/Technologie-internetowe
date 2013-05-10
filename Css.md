@@ -8,7 +8,7 @@
 <body>
   <p> Ala ma kota.</p>
   <p class="warning"> Ola też ma kota</p>
-  <h3 class="warning">Ja też chcę!</h3>
+  <h3 class="warning">Ala też</h3>
 </body>
 </html>
 
